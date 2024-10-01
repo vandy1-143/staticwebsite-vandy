@@ -1,0 +1,37 @@
+.products{
+    padding: 20px;
+    text-align:center;
+}
+
+.product-grid{
+    display:flex;
+    justify-content: center;
+    gap:20px;
+}
+
+.product-card{
+    border:3px solid #ccc;
+    width: 100%;
+    height:auto;
+}
+
+.product-card button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #5609dc;
+    color:white;
+}
+
+.product-card img{
+    width: 200px;
+    height: auto;
+}
+
+.product-card button:hover{
+
+        background: color #b30d0d;
+    }
+.product-card img{
+        width:100%;
+        height:auto;
+    }

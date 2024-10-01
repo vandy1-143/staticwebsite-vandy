@@ -1,0 +1,30 @@
+.login-container{
+    width: 500px;
+    margin: 100px;
+    padding: 30px;
+    background-color:rgb(183, 141, 222);
+    border-radius:5px;
+}
+h1{
+    text-align: center;
+}
+button{
+    width: 55%;
+    padding: 10px;
+    background-color:rgb(140, 170, 225);
+    color:black;
+    border-radius: 4px;
+    margin-left: 96px;
+}
+input{
+    width:95%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 4px;
+}  
+textarea{
+    width:95%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 4px;
+}              
